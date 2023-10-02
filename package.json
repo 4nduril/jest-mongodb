@@ -70,7 +70,7 @@
   },
   "peerDependencies": {
     "jest-environment-node": "27.x.x || 28.x || 29.x",
-    "mongodb": "3.x.x || 4.x || 5.x"
+    "mongodb": "3.x.x || 4.x || 5.x || 6.x"
   },
   "engines": {
     "node": ">=16"
